@@ -39,3 +39,4 @@ allow system_server ax_sandbox_vault_file:file create_file_perms;
 
 # LinearMotor
 add_service(system_server, linearmotor_vibrator_service);
+set_prop(system_server, ax_debug_prop)

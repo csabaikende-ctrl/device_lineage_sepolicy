@@ -10,3 +10,6 @@ system_internal_prop(custom_version_prop)
 
 # Recovery update
 system_internal_prop(recovery_update_prop)
+
+# Axion debug
+system_internal_prop(ax_debug_prop)
